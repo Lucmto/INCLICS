@@ -1,3 +1,3 @@
 # INCLICS
-Rainy Season and Crop Calendar
-The shiny code is available on request luc.randriamarolaza at gmail.com
+Rainy Season and Crop Calendar.
+The shiny code is ongoing. But it is available on request.
