@@ -1,3 +1,2 @@
 # INCLICS
-INqc (Controle qualite) - CLimatol - Indices Climatiques - Spcc (Saison Pluvieuse et Calendrier de Cultures).
-The shiny code is in the zip file. Readme file is included and helps to set up the software.
+INqc (Controle qualite) - CLimatol - Indices Climatiques - Spcc (Saison Pluvieuse et Calendrier de Cultures). It is an all in one tool developed and maintained by the Center for Climate Change (C3) and Institut Universitari de Recerca en Sostenibilitat, Canvi Climàtic i Transició Energètica (iu-Rescat) of Rovira i Virgili University. It is based on R shiny program and has been set up with three languages: French, English, and Spanish. The shiny code is in the zip file. Readme file is included to help users on setting.
